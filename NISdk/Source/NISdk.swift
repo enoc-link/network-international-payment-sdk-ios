@@ -8,6 +8,7 @@
 
 import Foundation
 import PassKit
+import UIKit
 
 private class NISdkBundleLocator {}
 
