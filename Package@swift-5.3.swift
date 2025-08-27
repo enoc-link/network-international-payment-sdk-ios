@@ -5,7 +5,7 @@ let package = Package(
     name: "NISdk",
     defaultLocalization: "en",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v17)
     ],
     products: [
         .library(
